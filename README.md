@@ -7,4 +7,3 @@ there!
 
 Demo at: https://pvilchez.github.io/dribbble-svg-eclipse/
 
-
